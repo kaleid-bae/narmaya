@@ -2,7 +2,7 @@
 # GBFR Narmaya Bot
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)[![NodeJS](https://img.shields.io/badge/Framework-NodeJS-yellow.svg)](https://choosealicense.com/licenses/mit/)
 
-A brief description of using this project as your main discord bot structure
+A brief description of Narmaya Bot Introductionary and Startup Process.
 
 
 ## 🚀 Authors
@@ -11,6 +11,7 @@ A brief description of using this project as your main discord bot structure
 
 #### With the help of
 - [@Uthsho](https://github.com/Uthsho) - Base Bot Original Creator
+- Many user that I can't list one by one, who contributed to the GBFR Resource data! (Author listed within their respective data in `~/data/resource.json` file)
 
 
 ## Installation
