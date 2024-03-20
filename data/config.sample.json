@@ -1,0 +1,17 @@
+{
+	"debug": false,
+	"maintenance": false,
+	"CLIENT_ID": "Your discord bot client id",
+	"token": "Your discord bot token",
+	"owners": [],
+	"admins": [],
+	"postgres": {
+		"active": false,
+		"name": "your name for this project",
+		"database": "your database name",
+		"username": "your database username",
+		"password": "your database password",
+		"dialect": "the database you would like to use",
+		"logging": false
+	}
+}
