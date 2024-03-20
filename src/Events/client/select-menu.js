@@ -56,7 +56,8 @@ module.exports = class extends Event {
 		});
 
 
-		const select_menu = this.client.handler.selectMenus.find(menu => menu.id.startsWith(customId));
+		const select_menu = this.client.handler.selectMenus.find(menu => customId.startsWith(menu.id));
+
 
 		if (!select_menu) return;
 

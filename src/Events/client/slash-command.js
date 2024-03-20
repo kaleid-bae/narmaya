@@ -52,6 +52,8 @@ module.exports = class extends Event {
 			}
 		}
 
+		if (!interaction.isCommand()) return;
+
 		if (interaction.channel?.type === 'DM') return;
 
 		const { member, guild, user, channel } = interaction;

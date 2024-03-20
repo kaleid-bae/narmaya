@@ -439,6 +439,52 @@ module.exports = class Util {
 	}
 
 	/**
+	 * @param {string} character
+	 * @param {number} key_value
+	 */
+	getCharacterBuildSelection(character, key_value) {
+		const char_builds = this.client.resource.charbuild[character];
+		let options = [];
+		for (const [key, value] of Object.entries(char_builds)) {
+			options.push(new StringSelectMenuOptionBuilder()
+				.setLabel(`${value.title || "Title"}`)
+				.setValue(`${key || "1"}`)
+				.setDefault(key == `${key_value}` || false)
+			)
+		};
+
+		const row = new ActionRowBuilder()
+		.addComponents(
+			new StringSelectMenuBuilder()
+				.setCustomId(`build_${character}`)
+				.setPlaceholder('Select one of the provided character build!')
+				.addOptions(...options)
+		)
+		
+		return row;
+	}
+
+	/**
+	 * @param {string} character
+	 * @param {number} key
+	 */
+	getCharacterBuildEmbed(character, key) {
+		const embed = this.client.embeds.generateEmbed().setDescription("No build found...");
+		const char_build = this.client.resource.charbuild[character][key];
+		const char_image = this.client.resource.characters[character]?.image;
+
+		if (char_image) embed.setThumbnail(char_image);
+		if (char_build) {
+			embed.setTitle(char_build?.title || "Unknown Build")
+			.setDescription(char_build?.notes || "-")
+			.setImage(char_build?.link)
+			.setColor("Random");
+		}
+
+		return embed;
+	}
+
+	/**
 	 *
 	 * @param {Message} message Message
 	 * @param {User} user User

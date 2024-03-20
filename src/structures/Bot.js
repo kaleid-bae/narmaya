@@ -28,6 +28,8 @@ class Bot extends Client {
 
 		this.server = require('../../data/server.json');
 
+		this.resource = require('../../data/resource.json');
+
 		this.utils = new Util(this);
 
 		this.logger = new Logger(this);

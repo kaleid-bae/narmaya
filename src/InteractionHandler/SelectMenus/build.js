@@ -9,7 +9,7 @@ module.exports = class extends SelectMenu {
 		super(
 			...args,
 			{
-				id: 'select_test',
+				id: 'build',
                 isDM: false
 			}
 		);
@@ -19,10 +19,15 @@ module.exports = class extends SelectMenu {
 	 * @param {StringSelectMenuInteraction} interaction Interaction
 	 */
 	async run(interaction) {
-		const { channel, user, values } = interaction;
+		const { channel, user, values, customId } = interaction;
+		const character = customId.split("_")[1];
 		const selected_value = values[0];
 
-		return interaction.reply({content: `What does it say?\n> "${selected_value}"`});
+		const build_menu = this.client.utils.getCharacterBuildSelection(character, selected_value);
+		const build_embed = this.client.utils.getCharacterBuildEmbed(character, selected_value);
+
+		await interaction.message.edit({embeds: [build_embed], components: [build_menu]});
+		return interaction.deferUpdate();
 	}
 
 };

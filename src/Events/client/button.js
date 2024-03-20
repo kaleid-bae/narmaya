@@ -54,7 +54,7 @@ module.exports = class extends Event {
 		});
 
 
-		const button = this.client.handler.buttons.find(btn => btn.id.startsWith(customId));
+		const button = this.client.handler.buttons.find(btn => customId.startsWith(btn.id));
 
 		if (!button) return;
 

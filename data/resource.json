@@ -1,0 +1,325 @@
+{
+    "farmdata": {
+        "fortitudecrystal": {
+            "title": "Fortitude Crystal",
+            "data": "Roost and Reign (Maniac 2 Griffons) is the best quest for Fortitude Crystals.\nUse a ranged character for best results.",
+            "link": "https://nenkai.github.io/relink-modding/resources/quest_drop_rates/#roost-and-reign-406351",
+            "help": "This gives the best quest for farming Fortitude Crystals."
+        },
+        "terminusweapon": {
+            "title": "Terminus Weapon",
+            "data": "Terminus Weapons only drop from `Tales of Bahamut's Rage`.\nComplete `ALL` proud quests to unlock this.\n20% Drop Rate for Unowned Weapons (Based on Unlocked Characters).\n(Credits to Nenkai)",
+            "link": "https://nenkai.github.io/relink-modding/resources/quest_drop_rates/#the-tale-of-bahamuts-rage-407318",
+            "help": "This gives the drop rate for Terminus Weapons."
+        },
+        "supplementarydamage": {
+            "title": "Supplementary Damage",
+            "data": "Supplementary Damage Sigils drop from Curios.\nSee the `Curios` command for more information.",
+            "link": "https://nenkai.github.io/relink-modding/resources/curio_loot_rates/",
+            "help": "This explains how to get Supplementary Damage Sigils."
+        },
+        "warelemental": {
+            "title": "War Elemental",
+            "data": "War Elemental Sigils drop from Curios.\nSee the `Curios` command for more information.",
+            "link": "https://nenkai.github.io/relink-modding/resources/curio_loot_rates/",
+            "help": "This explains how to get War Elemental Sigils."
+        },
+        "curios": {
+            "title": "Curios",
+            "data": "Read this document on how Curios work.\n(Credits to GL1TCH3D)",
+            "link": "https://gl1tch3d.com/everything-to-know-about-curios/",
+            "help": "This explains how Curios work."
+        },
+        "weaponmaterials":{
+            "title": "Weapon Materials",
+            "data": "Read this document on how how many weapon materials are needed to upgrade your weapon.",
+            "link": "https://discord.com/channels/1201230973388456088/1201305336607424602/1216804163682566194",
+            "help": "This gives a list of the weapon materials you will need."
+        }
+    },
+    "faqdata": {
+        "calculator": {
+            "title": "Calculator",
+            "data": "Damage Calcualtor for Granblue Fantasy Relink.\n(Credits to Maygi)",
+            "link": "https://docs.google.com/spreadsheets/u/0/d/1RnNLfdqFCW7zWvfHnQsNRJoi7EtIjdOUg-uYB0xsZHQ/copy",
+            "image": "https://i.imgur.com/PudUfF0.png",
+            "help": "This gives a link to the Damage Calcualtor."
+        },
+        "questdrops": {
+            "title": "Quest Drops",
+            "data": "Drop Rate Data for all Quests.",
+            "link": "https://nenkai.github.io/relink-modding/resources/quest_drop_rates/",
+            "help": "This gives a link to the Drop Rate Table for all Quests."
+        },
+        "curiodrops": {
+            "title": "Curio Drop Table",
+            "data": "Curios drop in different tiers (1-4).\nRare Sigils drop best from T4 Sigils.\nIf you have cleared `The Final Report` then group 5 curios will drop from all your quests.\nCheck the `Drops` command for a link to the Drop Rate of all Quests (Including Curios)\n(Credits to Nenkai)",
+            "link": "https://nenkai.github.io/relink-modding/resources/curio_loot_rates/",
+            "help": "This gives a link to the Drop Rate Table for all Curios."
+        },
+        "afk": {
+            "title": "AFK Farming",
+            "data": "Check this channel for information on how to Afk Farm.",
+            "link": "https://discord.com/channels/1201230973388456088/1205341744665989160/1210415854324285470",
+            "help": "This gives a link to the super soldiers character thread."
+        },
+        "sigildrops": {
+            "title": "Sigil Drop Table",
+            "data": "Basic guide on where to farm Sigils from Quests.\n(Credits to Redicular)",
+            "link": "https://www.reddit.com/r/GranblueFantasyRelink/comments/1aqtuno/v_sigil_farming_locations/",
+            "help": "This gives a link on where to farm Sigils from Quests."
+        },
+        "dpsmeter": {
+            "title": "GBFR Logs",
+            "data": "DPS Meter for Granblue Fantasy Relink.\nRead the github for instructions on how to install.\n(Credits to False Spring, Naoouo, and the team behind GBFR-ACT)",
+            "link": "https://github.com/false-spring/gbfr-logs",
+            "image": "https://avatars.githubusercontent.com/u/60109619?v=4",
+            "help": "This gives a link to install a dps meter."
+        },
+        "skillissue": {
+            "title": "GBFR Parser",
+            "data": "DPS Meter for Granblue Fantasy Relink.\nRead the github for instructions on how to install.\n(Credits to Brunolm, Naoouo, and the team behind GBFR-ACT)",
+            "link": "https://github.com/brunolm/gbfr-parser",
+            "image": "https://avatars.githubusercontent.com/u/706078?v=4",
+            "help": "This gives a link to install a dps meter."
+        },
+        "damagecap": {
+            "title": "Damage Cap Guide",
+            "data": "Check this pin for how Damage Cap works.",
+            "link": "https://discord.com/channels/1201230973388456088/1201305336607424602/1216667924673200139",
+            "help": "This gives a link to how Damage Cap works."
+        },
+        "pins": {
+            "title": "Pins",
+            "help": "Read the Pins."
+        }
+    },
+    "characters": {
+        "narmaya": {
+            "thread": "https://discord.com/channels/1201230973388456088/1201388836761129024",
+            "guide": "https://discord.com/channels/1201230973388456088/1205283845000265728",
+            "color": "0xfda2f5",
+            "image": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_narmaya.png?20240309112351",
+            "help": "This gives a link to the Narmaya Character Thread and Guide."
+        },
+        "io": {
+            "thread": "https://discord.com/channels/1201230973388456088/1203477792017358870",
+            "guide": "https://discord.com/channels/1201230973388456088/1207453490570330212",
+            "color": "0xfda2f5",
+            "image": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_io.png?20240309112351",
+            "help": "This gives a link to the Io Character Thread and Guide."
+        },
+        "captain": {
+            "thread": "https://discord.com/channels/1201230973388456088/1205013424770130001",
+            "guide": "https://discord.com/channels/1201230973388456088/1208184601407655966",
+            "color": "0xfda2f5",
+            "image": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_djeeta.png?20240309112351",
+            "help": "This gives a link to the Captain Character Thread and Guide."
+        },
+        "katalina": {
+            "thread": "https://discord.com/channels/1201230973388456088/1203456369026535424",
+            "guide": "https://discord.com/channels/1201230973388456088/1207410971082100736",
+            "color": "0xfda2f5",
+            "image": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_katalina.png?20240314052146",
+            "help": "This gives a link to the Katalina Character Thread and Guide."
+        },
+        "rackam": {
+            "thread": "https://discord.com/channels/1201230973388456088/1202998868837404712",
+            "guide": "https://discord.com/channels/1201230973388456088/1207819487240257546",
+            "color": "0xfda2f5",
+            "image": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_rackam.png?20240314052146",
+            "help": "This gives a link to the Rackam Character Thread and Guide."
+        },
+        "eugen": {
+            "thread": "https://discord.com/channels/1201230973388456088/1203188229629812816",
+            "guide": "https://imgur.com/a/LobuRKb",
+            "color": "0xfda2f5",
+            "image": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_eugen.png?20240314052146",
+            "help": "This gives a link to the Eugen Character Thread and Guide."
+        },
+        "rosetta": {
+            "thread": "https://discord.com/channels/1201230973388456088/1201730834143387678",
+            "guide": "https://discord.com/channels/1201230973388456088/1207392595295342592",
+            "color": "0xfda2f5",
+            "image": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_rosetta.png?20240314052146",
+            "help": "This gives a link to the Rosetta Character Thread and Guide."
+        },
+        "ferry": {
+            "thread": "https://discord.com/channels/1201230973388456088/1202572876411183134",
+            "guide": "https://discord.com/channels/1201230973388456088/1207581823425716265",
+            "color": "0xfda2f5",
+            "image": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_ferry.png?20240314052146",
+            "help": "This gives a link to the Ferry Character Thread and Guide."
+        },
+        "lancelot": {
+            "thread": "https://discord.com/channels/1201230973388456088/1202029826664570940",
+            "guide": "",
+            "color": "0xfda2f5",
+            "image": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_lancelot.png?20240314052146",
+            "help": "This gives a link to the Lancelot Character Thread and Guide."
+        },
+        "percival": {
+            "thread": "https://discord.com/channels/1201230973388456088/1201976063786504332",
+            "guide": "https://discord.com/channels/1201230973388456088/1207436396990570618",
+            "color": "0xfda2f5",
+            "image": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_percival.png?20240314052146",
+            "help": "This gives a link to the Percy Character Thread and Guide."
+        },
+        "vane": {
+            "thread": "https://discord.com/channels/1201230973388456088/1201442226526490685",
+            "guide": "https://discord.com/channels/1201230973388456088/1208511856701083678",
+            "color": "0xfda2f5",
+            "image": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_vane.png?20240314052146",
+            "help": "This gives a link to the Vane Character Thread and Guide."
+        },
+        "siegfried": {
+            "thread": "https://discord.com/channels/1201230973388456088/1202755515671646249",
+            "guide": "https://discord.com/channels/1201230973388456088/1207443611940290580",
+            "color": "0xfda2f5",
+            "image": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_siegfried.png?20240314052146",
+            "help": "This gives a link to the Siegfried Character Thread and Guide."
+        },
+        "charlotta": {
+            "thread": "https://discord.com/channels/1201230973388456088/1203045888587464704",
+            "guide": "https://discord.com/channels/1201230973388456088/1211756758507327579",
+            "color": "0xfda2f5",
+            "image": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_charlotta.png?20240314052146",
+            "help": "This gives a link to the Charlotta Character Thread and Guide."
+        },
+        "yodarha": {
+            "thread": "https://discord.com/channels/1201230973388456088/1202555604816887808",
+            "guide": "https://discord.com/channels/1201230973388456088/1207830137798787142",
+            "color": "0xfda2f5",
+            "image": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_yodarha.png?20240314052146",
+            "help": "This gives a link to the Yodarha Character Thread and Guide."
+        },
+        "zeta": {
+            "thread": "https://discord.com/channels/1201230973388456088/1201975124211794021",
+            "guide": "https://discord.com/channels/1201230973388456088/1205369850285785110",
+            "color": "0xfda2f5",
+            "image": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_zeta.png?20240314052146",
+            "help": "This gives a link to the Zeta Character Thread and Guide."
+        },
+        "vaseraga": {
+            "thread": "https://discord.com/channels/1201230973388456088/1202454231127166976",
+            "guide": "https://discord.com/channels/1201230973388456088/1202454231127166976/1202456638926356580",
+            "color": "0xfda2f5",
+            "image": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_vaseraga.png?20240314052146",
+            "help": "This gives a link to the Vaseraga Character Thread and Guide."
+        },
+        "cagliostro": {
+            "thread": "https://discord.com/channels/1201230973388456088/1205081944363245578",
+            "guide": "https://discord.com/channels/1201230973388456088/1205278677198315620",
+            "color": "0xfda2f5",
+            "image": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_cagliostro.png?20240314052146",
+            "help": "This gives a link to the Cagliostro Character Thread and Guide."
+        },
+        "ghandagoza": {
+            "thread": "https://discord.com/channels/1201230973388456088/1203151264213368862",
+            "guide": "https://discord.com/channels/1201230973388456088/1207524937775058994",
+            "color": "0xfda2f5",
+            "image": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_ghandagoza.png?20240314052146",
+            "help": "This gives a link to the Ghandagoza Character Thread and Guide."
+        },
+        "id": {
+            "thread": "https://discord.com/channels/1201230973388456088/1203184498439884840",
+            "guide": "https://discord.com/channels/1201230973388456088/1207403175523516467",
+            "color": "0xfda2f5",
+            "image": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_id.png?20240314052146",
+            "help": "This gives a link to the Id Character Thread and Guide."
+        }
+    },
+    "charbuild": {
+        "narmaya": {
+            "1":{
+                "title": "Safe Build.",
+                "link": "https://cdn.discordapp.com/attachments/1216535600488775690/1218395680951762965/Narm1.PNG?ex=66078267&is=65f50d67&hm=d2900e83d8e179ddf31f5fc3190ed950304490bc69ab99b3f9afd488ff0d3a6f&",
+                "notes": "This build is designed for survivability.\nThis is a generic catch all build, meant for most players.\nAll secondary sigils and wrighstone here are flexible."
+            },
+            "2":{
+                "title": "Tap Setsuna DPS Build.",
+                "link": "https://cdn.discordapp.com/attachments/1216535600488775690/1218395885248188516/Narm2.PNG?ex=66078297&is=65f50d97&hm=ad05e33afbee626ef8770f0a0be5aa4c1a2a7a7f488b9484e9c80ee6a9f73b5d&",
+                "notes": "This is a tap setsuna build.\nLOTL can be replaced with Glass Cannon.\nYou can replace 2x QCD for utility sigils but this is a massive damage loss."
+            },
+            "3":{
+                "title": "Post Lucilius Build.",
+                "link": "https://cdn.discordapp.com/attachments/1216535600488775690/1218396221207609424/Narm3.PNG?ex=660782e7&is=65f50de7&hm=882a17c2808197e8c3c95b5a21e29972d13f3790823904cd07f91ada5bda0164&",
+                "notes": "This is a `perfect` build with Supplementary V+.\n`You must sacrifice utility sigils to run Alpha, Beta, or Gamma.`\nYou can choose to drop 2x Quick Cooldown for 1x Potion Hoarder and 1x Improved Dodge/Aegis."
+            }
+        }, 
+        "katalina": {
+            "1":{
+                "title": "Safe Build",
+                "link": "https://cdn.discordapp.com/attachments/1216535600488775690/1218400569832767548/Kat1.PNG?ex=660786f4&is=65f511f4&hm=ac2bb151eafefe8a5f624b3d300f44bc6f47de99696c31f5664fa3cb446d5335&",
+                "notes": "This build is designed for survivability.\nThis only runs 2 Supplementary Damage sigils as the other damage sigils are more valuable.\nStout Heart is useful so you dont drop Ares.\nDrain caps at 500 per hit so you only need a few levels on wrightstone.\n(Credits to Noa)"
+            },
+            "2":{
+                "title": "DPS Build",
+                "link": "https://cdn.discordapp.com/attachments/1216535600488775690/1218653809861984307/Kat2.PNG?ex=660872cd&is=65f5fdcd&hm=80a9f72332127bf417d13483232bc8772790f14982601c1fc39ba81236030ff0&",
+                "notes": "This build is designed to maximize dps.\nYou can slot in QCD or more defensive sigils on your Supplementary V+ if you get them.\n(Credits to Noa)"
+            },
+            "3":{
+                "title": "Firm Stance Build",
+                "link": "https://cdn.discordapp.com/attachments/1216535600488775690/1218653824034668714/Kat3.PNG?ex=660872d1&is=65f5fdd1&hm=d4b0bf256dc34d61a5a1a44feb909f3a5549a63b740a312907713107d2ebd2c7&",
+                "notes": "This build is around Firm Stance.\nYou will drop Ares if you get pushed back by the boss, which you can avoid with lv 20 Firm Stance.\n(Credits to Noa)"
+            }
+        },
+        "zeta": {
+            "1":{
+                "title": "Safe Build",
+                "link": "https://cdn.discordapp.com/attachments/1216535600488775690/1218702657464701068/Zeta1.PNG?ex=6608a04b&is=65f62b4b&hm=bc3b10b9b2901777da81881caa9ee73723710a5ee3266b89fc477cf27c3a5faa&",
+                "notes": "This build is designed for survivability.\nThis only runs 2 Supplementary Damage sigils as the other damage sigils are more valuable.\nStout Heart is useful.\nDrain caps at 500 per hit so you only need a few levels on wrightstone.\n(Credits to Aristocrat)"
+            },
+            "2":{
+                "title": "DPS Build",
+                "link": "https://cdn.discordapp.com/attachments/1216535600488775690/1218702671628996688/Zeta2.PNG?ex=6608a04f&is=65f62b4f&hm=de32419ca2a3e5a29c2f34acb3ea516cbab458bdc4bd4138c07d2866ad159733&",
+                "notes": "This build is designed to maximize dps.\n`Crimson's Flight is optional.`\nYou can slot in QCD or more defensive sigils on your Supplementary V+ if you get them.\n(Credits to Aristocrat)"
+            },
+            "3":{
+                "title": "Post Lucilius Build",
+                "link": "https://cdn.discordapp.com/attachments/1216535600488775690/1218765336132980786/Zeta3.PNG?ex=6608daab&is=65f665ab&hm=a11c54b1966bc43047029e219a40c7283ce3e3a5e8b7f1cf1d03a5933143b521&",
+                "notes": "The utility on Supplementary V+ are not required and can be swapped around with anything.\n(Credits to Aristocrat)"
+            }
+        },
+        "cagliostro": {
+            "1":{
+                "title": "Safe Build",
+                "link": "https://cdn.discordapp.com/attachments/1216535600488775690/1218782173558083634/Cag1.PNG?ex=6608ea5a&is=65f6755a&hm=2d43a26666a41de96364e965dcfa26fbbc21951e58c68552f5bee65c088e7649&",
+                "notes": "This build is designed for survivability.\nThis relies on 20% Skill Damage OM to cap Pain Train."
+            },
+            "2":{
+                "title": "DPS Build",
+                "link": "https://cdn.discordapp.com/attachments/1216535600488775690/1218782187445424158/Cag2.PNG?ex=6608ea5d&is=65f6755d&hm=b4dd1cc21066519e8a76fb248a13d6e534951ea5418940ff41e24794a171b71b&",
+                "notes": "This build is designed to maximize dps.\n`QCD and Cascade are not needed`, you can replace them with utility sigils if you desire.\nYou can slot in more defensive sigils on your Supplementary V+ if you get them."
+            },
+            "3":{
+                "title": "Post Lucilius Build",
+                "link": "https://cdn.discordapp.com/attachments/1216535600488775690/1218782199063777360/Cag3.PNG?ex=6608ea60&is=65f67560&hm=88aeaab14305b1ccc3b9151972dadaa24686a60d715ca43816cb4929ce2867f5&",
+                "notes": "You can swap Beta with Alpha for a damage loss if you value 3% SBA gain.\nThe utility on Supplementary V+ are not required and can be swapped around with anything."
+            }
+        },
+        "charlotta": {
+            "1":{
+                "title": "Safe Build",
+                "link": "https://cdn.discordapp.com/attachments/1216535600488775690/1219802363926282370/Char1.PNG?ex=660ca07a&is=65fa2b7a&hm=a49c8deca51536c72c48dbfdb5be616cee91ed7caeb4550cdafd0f4c1e76db76&",
+                "notes": "This build is designed for survivability."
+            },
+            "2":{
+                "title": "DPS Build",
+                "link": "https://cdn.discordapp.com/attachments/1216535600488775690/1219802375985037443/Char2.PNG?ex=660ca07d&is=65fa2b7d&hm=41463653d7a06df593f62da92d23e0faefd49f8288cf2566e8de5c24effb381d&",
+                "notes": "This build is designed to maximize dps.\n`QCD and Cascade are not needed`, you can replace them with utility sigils if you desire.\nYou can slot in more defensive sigils on your Supplementary V+ if you get them."
+            },
+            "3":{
+                "title": "Post Lucilius Build",
+                "link": "https://cdn.discordapp.com/attachments/1216535600488775690/1219802386999148544/Char3.PNG?ex=660ca07f&is=65fa2b7f&hm=9abb76010f1f291cb942c4f26183c8f5415d85c9f23878c2946e3656bbb727e4&",
+                "notes": "The utility on Supplementary V+ are not required and can be swapped around with anything."
+            }
+        }
+    },
+    "meme": {
+        "grind": {
+            "link": "https://cdn.discordapp.com/attachments/1201305336607424602/1217256844762939453/GIdlF7-bkAAvQC-.png?ex=66035dc7&is=65f0e8c7&hm=cebb5717e76ec07ea841a5d18cfd85baf0ede2c64d574a7edaea974f5f7d9b22&",
+            "help": "The grind begins."
+        }
+    }
+}
